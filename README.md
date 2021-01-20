@@ -4,3 +4,6 @@ Small example about how to use SendBird and Firebase for receiving Push notifica
 
 ### See document here: ###
 https://github.com/warodri-sendbird/sendbird-javascript-pwa/blob/main/WebAppPushNotificationGuide.pdf
+
+### See Youtube Video ###
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/5zvlMZB53xA/0.jpg)](http://www.youtube.com/watch?v=5zvlMZB53xA "Youtube Video")
